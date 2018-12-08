@@ -4,6 +4,7 @@ User-agent: *
 Disallow:
 This is my line to show pull 1.
 This is my line before pull 2
+Pull 2 is here.
 # This line has been added to demonstrate the usage of "git pull" command
 # This line has been added to demonstrate the usage of "git push" commanii
 # This line has been added to demonstrate the usage of SSH protocol
